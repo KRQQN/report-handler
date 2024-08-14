@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "resolveJsonModule": true,   
+    "resolvePackageJsonImports": true,
+    "module": "NodeNext",                             
+    "declaration": false,        
+    "emitDeclarationOnly": false,              
+    "outDir": "./dist",      
+    "esModuleInterop": true,            
+    "strict": true,
+    "skipLibCheck": true  
+  }
+}
